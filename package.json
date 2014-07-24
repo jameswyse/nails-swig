@@ -1,6 +1,6 @@
 {
   "name": "nails-swig",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Swig for Nails",
   "main": "index.js",
   "scripts": {},
